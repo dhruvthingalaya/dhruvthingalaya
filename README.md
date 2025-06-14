@@ -1,6 +1,6 @@
 ## About Me  
 
-Hey, I'm Dhruv! 👋 I specialize in **frontend development** and **brand design**, combining tech and creativity to build unique digital experiences. With a passion for branding and e-commerce, I help creators bring their vision to life through design and strategy. Currently working on **Influvise**, where I bridge the gap between creator merch and strong brand identities.  
+Hey, I'm Dhruv! 👋 I specialize in frontend development and product design, blending tech and creativity to build tools creators actually want. Right now, I’m building Influvise — a smart dashboard that helps creators manage content, team, and revenue in one place. Focused on simplifying creator workflows through clean design and powerful strategy. 
 
 
 
